@@ -2,7 +2,7 @@
 <table width="100%">
   <tr>
     <td width="70%" valign="top">
-      <h1>ANUSHA KURVA</h1>
+      <h1>ANUSHA</h1>
       <h3>🚀 Full-Stack Engineer & Data Analyst</h3>
       <p>Building high-performance web products, interactive digital interfaces, and data-driven insights.</p>
       <br>
