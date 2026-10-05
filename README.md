@@ -3,7 +3,7 @@
   <tr>
     <td width="70%" valign="top">
       <h1>ANUSHA</h1>
-      <h3>🚀 Full-Stack Engineer & Data Analyst</h3>
+      <h3>Software Engineer</h3>
       <p>Building high-performance web products, interactive digital interfaces, and data-driven insights.</p>
       <br>
       <a href="https://linkedin.com"><b>💼 Connect on LinkedIn</b></a> &nbsp;•&nbsp; 
