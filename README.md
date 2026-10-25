@@ -43,10 +43,6 @@ I am a Computer Science and Technology student at Sri Indu College of Engineerin
     <td><code>React</code> <code>Next.js</code> <code>HTML5</code> <code>CSS3</code> <code>Tailwind CSS</code> <code>GSAP Core</code></td>
   </tr>
   <tr>
-    <td><b>Backend & Systems</b></td>
-    <td><code>Node.js</code> <code>REST APIs</code></td>
-  </tr>
-  <tr>
     <td><b>Databases & Clouds</b></td>
     <td><code>MySQL</code> <code>MongoDB</code> <code>Vercel</code></td>
   </tr>
