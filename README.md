@@ -40,11 +40,11 @@ I am a Computer Science and Technology student at Sri Indu College of Engineerin
   </tr>
   <tr>
     <td><b>Frontend Architecture</b></td>
-    <td><code>React</code> <code>Next.js</code> <code>HTML5</code> <code>CSS3</code> <code>Tailwind CSS</code> <code>GSAP Core</code></td>
+    <td>  <code>HTML5</code> <code>CSS3</code>  <code>JS</code></td>
   </tr>
   <tr>
     <td><b>Databases & Clouds</b></td>
-    <td><code>MySQL</code> <code>MongoDB</code> <code>Vercel</code></td>
+    <td><code>MySQL</code> <code>Vercel</code></td>
   </tr>
   <tr>
     <td><b>Analytics & Utilities</b></td>
